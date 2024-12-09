@@ -1,0 +1,58 @@
+body {
+    background-color: peachpuff;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+h1 {
+    color: rgba(214, 204, 194, 0.603);
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    font-style: italic;
+}
+a {
+    color: rgb(17, 0, 255);
+}
+nav ul {
+    background-color: blanchedalmond;
+    border: 2px solid seashell;
+    padding: 8px;
+    border-radius: 1opx;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 5px;
+    margin-left: 5px;
+    color: rgb(255, 255, 255);
+}
+nav ul li a {
+    text-decoration: none;
+    color: olive;
+}
+img {
+    border-radius: 30px;
+}
+  /**********************************
+  This section is for styling tables
+  ***********************************/
+table, th, td {
+    border: 1px solid HoneyDew;
+    border-collapse: collapse;
+  }
+tr {
+    background-color: palegoldenrod;
+  }
+th, td {
+    vertical-align: top;
+    padding: 5px;
+    text-align: left;
+  }
+th {
+    color: purple;
+  }
+td {
+    color: purple;
+  }
